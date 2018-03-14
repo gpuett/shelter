@@ -1,0 +1,19 @@
+p{
+  font-family: sans-serif;
+}
+img{
+  width: 400px;
+}
+.pets {
+  border: 5px solid goldenrod;
+  margin: 15px;
+  padding: 10px;
+  max-width: 450px;
+  height: 500px;
+  float: left;
+  text-align: center;
+  background-color: lightpink;
+}
+body {
+  background-image: url(http://www.clipartpal.com/_thumbs/pd/holiday/valentine/heart_tiles_background.png);
+}
