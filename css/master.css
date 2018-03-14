@@ -8,12 +8,18 @@ img{
   border: 5px solid goldenrod;
   margin: 15px;
   padding: 10px;
-  max-width: 450px;
+  width: 450px;
   height: 500px;
   float: left;
   text-align: center;
   background-color: lightpink;
+  color: white;
 }
 body {
   background-image: url(http://www.clipartpal.com/_thumbs/pd/holiday/valentine/heart_tiles_background.png);
+}
+h1{
+  font-weight: bold;
+  font-family: sans-serif;
+  color: lightcoral;
 }
