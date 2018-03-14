@@ -70,7 +70,7 @@ h1{
 @media screen and (min-width: 1300px) {
   .pets {
     background: blue;
-    color: black;
+    color: white;
   }
 }
 
@@ -84,7 +84,7 @@ h1{
 @media screen and (min-width: 1700px) {
   .pets {
     background: indigo;
-    color: black;
+    color: white;
   }
 }
 
